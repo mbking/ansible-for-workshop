@@ -1,5 +1,5 @@
 ---
 # vars file for apache-simple
-httpd_package:
- - httpd
- - mog_wsgi
+httpd_packages:
+  - httpd
+  - mod_wsgi
